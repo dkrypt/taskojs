@@ -1,0 +1,29 @@
+{
+  "name": "taskojs",
+  "version": "1.0.0",
+  "description": "A CLI based daily updates manager",
+  "main": "bin/index.js",
+  "bin": {
+    "tasko": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkrypt/taskojs.git"
+  },
+  "keywords": [
+    "CLI",
+    "Task",
+    "Updates",
+    "TODO"
+  ],
+  "author": "dkrypt",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "inquirer": "^8.1.2",
+    "nedb-promises": "^5.0.0"
+  }
+}

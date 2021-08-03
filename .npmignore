@@ -1,0 +1,7 @@
+test
+.vscode
+node_modules
+logs
+.debug
+coverage
+.nyc
