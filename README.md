@@ -1,3 +1,4 @@
+![Build Status](https://github.com/dkrypt/taskojs/actions/workflows/main.yml/badge.svg)
 # Tasko
 
 ## Prerequisites
